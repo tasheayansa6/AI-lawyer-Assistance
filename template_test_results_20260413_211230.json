@@ -1,0 +1,562 @@
+{
+  "general": {
+    "template_type": "general",
+    "description": "General legal questions",
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "average_response_time": 0.8552144527435303,
+    "average_word_count": 230.8,
+    "test_results": [
+      {
+        "query": "What are the essential elements of a valid contract?",
+        "formatted_prompt": "Answer this legal question: What are the essential elements of a valid contract?",
+        "response": "**Disclaimer:** The following information is general in nature and is not intended to provide specific legal advice. For individual circumstances, it is recommended that you consult a licensed attorney in the United States.\n\nIn the United States, a valid contract is composed of several essential elements, which are:\n\n1. **Offer and Acceptance**: An offer is a clear and definite expression of a willingness to enter into a contract, while acceptance is the agreement to the terms of the offer. The offer and acceptance must be communicated to each other, either directly or through a third party.\n2. **Consideration**: Consideration is the exchange of something of value, such as money, goods, or services, between the parties. This is the essential element that distinguishes a contract from a gift.\n3. **Capacity**: The parties to the contract must have the mental capacity to enter into a contract. This means that they must be of sound mind, at least 18 years old (or the age of majority in their state), and not under duress or coercion.\n4. **Legality**: The contract must be for a lawful purpose and not violate any laws or public policy. This means that the contract cannot be for an illegal activity, such as murder or theft.\n5. **Mutuality of Obligation**: Both parties must have a clear understanding of their obligations and duties under the contract.\n6. **Form**: In the United States, the form of a contract is not always required, but it can be",
+        "response_time": 1.0543701648712158,
+        "word_count": 244,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "How does bankruptcy affect personal assets?",
+        "formatted_prompt": "Answer this legal question: How does bankruptcy affect personal assets?",
+        "response": "**Disclaimer:** This response is for general information purposes only and is not intended to provide specific legal advice. Consult a licensed attorney for personalized guidance on bankruptcy and asset protection.\n\nIn the United States, bankruptcy can significantly impact personal assets. When an individual or business files for bankruptcy, they may be able to protect certain assets from creditors, but others may be subject to liquidation or sale to satisfy debts.\n\n**Types of Bankruptcy:**\n\nThere are two main types of personal bankruptcy in the US:\n\n1. **Chapter 7 Bankruptcy:** Also known as \"liquidation bankruptcy,\" Chapter 7 involves the sale of non-exempt assets to pay off creditors. Exempt assets, such as primary residences, personal property, and retirement accounts, are protected from seizure.\n2. **Chapter 13 Bankruptcy:** Also known as \"reorganization bankruptcy,\" Chapter 13 involves creating a repayment plan to pay off debts over time. This type of bankruptcy allows debtors to keep most of their assets while making regular payments.\n\n**Asset Protection in Bankruptcy:**\n\nThe Bankruptcy Code (11 U.S.C. § 522) sets out exemptions that allow debtors to protect certain assets from creditors. These exemptions vary by state, so it's essential to consult with an attorney familiar with the laws in your jurisdiction.\n\nCommon exempt assets include:\n\n* Primary residences (up to a certain value)\n* Personal property (e.g., household goods, clothing, and jewelry)\n* Retirement accounts (e.g., ",
+        "response_time": 0.7706527709960938,
+        "word_count": 226,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "What is the difference between civil and criminal law?",
+        "formatted_prompt": "Answer this legal question: What is the difference between civil and criminal law?",
+        "response": "**Disclaimer:** The following information is for general knowledge purposes only and should not be considered as specific legal advice. For personalized guidance, consult a licensed attorney in the United States.\n\nIn the United States, the legal system is divided into two main branches: civil law and criminal law. Understanding the differences between these two branches is essential to navigating the complexities of the law.\n\n**Civil Law:**\n\nCivil law deals with disputes between individuals, organizations, or government entities. It focuses on resolving conflicts and determining damages or compensation for losses suffered by one party. Civil law cases often involve:\n\n1. Tort claims (e.g., personal injury, property damage)\n2. Contract disputes (e.g., breach of contract, employment law)\n3. Property law (e.g., real estate, intellectual property)\n4. Family law (e.g., divorce, child custody)\n\nIn civil law, the primary goal is to provide relief or compensation to the injured party. Civil cases are typically tried in state or federal courts, and the burden of proof is \"preponderance of the evidence\" (more likely than not).\n\n**Criminal Law:**\n\nCriminal law, on the other hand, deals with offenses committed against the state or society. It focuses on punishing individuals who break laws and protecting society from harm. Criminal law cases often involve:\n\n1. Felonies (e.g., murder, robbery, assault)\n2. Misdemeanors (e.g., petty theft, disorderly conduct)\n3. White",
+        "response_time": 0.7649757862091064,
+        "word_count": 220,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Can I sue for emotional distress?",
+        "formatted_prompt": "Answer this legal question: Can I sue for emotional distress?",
+        "response": "**Disclaimer:** I'm an AI legal assistant, and this response is for general information purposes only. It's not a substitute for personalized legal advice from a licensed attorney in the United States. The specifics of your situation may affect your eligibility to sue for emotional distress.\n\n**General Information:**\n\nIn the United States, you may be able to sue for emotional distress under certain circumstances. Emotional distress, also known as emotional harm or mental anguish, can be a compensable injury in tort law. To prevail, you typically need to show that the defendant's actions were intentional or negligent, and that these actions caused you significant emotional harm.\n\n**Types of Emotional Distress Claims:**\n\nThere are two primary types of emotional distress claims:\n\n1. **Negligent Infliction of Emotional Distress (NIED):** This type of claim arises when a defendant's careless or reckless behavior causes emotional harm to another person. To succeed, you'll need to show that the defendant owed you a duty of care, breached that duty, and that the breach caused your emotional distress.\n2. **Intentional Infliction of Emotional Distress (IIED):** This type of claim involves a defendant's intentional behavior that causes emotional harm to another person. To prevail, you'll need to show that the defendant's behavior was extreme and outrageous, and that it caused you severe emotional distress.\n\n**Key Factors:**\n\nTo determine whether you can sue for emotional distress, consider the following factors:\n\n1. **",
+        "response_time": 0.7533538341522217,
+        "word_count": 232,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "What are the requirements for a power of attorney?",
+        "formatted_prompt": "Answer this legal question: What are the requirements for a power of attorney?",
+        "response": "Disclaimer: I'm an AI legal assistant, and my purpose is to provide general information about the law. I am not a licensed attorney and cannot provide specific legal advice. If you have a specific situation or need guidance on creating a power of attorney, I recommend consulting a licensed attorney in the United States.\n\nIn the United States, the requirements for a power of attorney (POA) vary from state to state. However, I will provide general information on the typical requirements.\n\nA power of attorney is a legal document that grants one person (the agent or attorney-in-fact) the authority to act on behalf of another person (the principal). The principal can grant the agent the authority to make decisions, sign documents, and take actions on their behalf.\n\nTypical requirements for a power of attorney include:\n\n1. **Principal's signature**: The principal must sign the POA document in the presence of a notary public or another authorized witness.\n2. **Agent's information**: The POA must identify the agent, including their name, address, and contact information.\n3. **Scope of authority**: The POA must specify the scope of the agent's authority, including what actions they can take on behalf of the principal.\n4. **Effective date**: The POA must specify the effective date of the document, which can be immediate or in the future.\n5. **Durable or non-durable**: The POA can be either durable (survives the principal's incapacitation)",
+        "response_time": 0.9327197074890137,
+        "word_count": 232,
+        "success": true,
+        "error": null
+      }
+    ]
+  },
+  "term": {
+    "template_type": "term",
+    "description": "Explain legal terms",
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "average_response_time": 0.7984718799591064,
+    "average_word_count": 231.6,
+    "test_results": [
+      {
+        "query": "Habeas Corpus",
+        "formatted_prompt": "Define and explain this legal term in simple language: Habeas Corpus",
+        "response": "**Disclaimer:** This response is for general information purposes only and should not be considered as specific legal advice. For individual situations, consult a licensed attorney in the United States.\n\n**Habeas Corpus:**\n\nHabeas Corpus is a Latin phrase that translates to \"you have the body.\" It's a fundamental concept in the United States legal system, rooted in the Constitution. In simple terms, Habeas Corpus is a legal process that allows a person to challenge their detention or imprisonment, ensuring that the government has followed proper procedures and laws.\n\n**How it works:**\n\nImagine you're arrested or detained by the government. If you believe your detention is unlawful, you can file a Habeas Corpus petition. This petition is a court document that asks the court to review your situation and determine if your detention is justified.\n\nThe court will examine the reasons for your detention, such as whether you were arrested with a valid warrant, whether you had a fair trial, and whether the government followed proper procedures. If the court finds that your detention is unlawful, it may order your release or require the government to provide additional justification for your detention.\n\n**Key principles:**\n\n1. **Due process:** Habeas Corpus ensures that individuals receive fair treatment and are not subjected to arbitrary or unjust detention.\n2. **Protection from unlawful detention:** The process prevents the government from holding someone without a valid reason or without following proper procedures.\n3. **Review of detention:** The court reviews the government's actions to",
+        "response_time": 0.929755687713623,
+        "word_count": 245,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Statute of Limitations",
+        "formatted_prompt": "Define and explain this legal term in simple language: Statute of Limitations",
+        "response": "**Disclaimer:** This response provides general information and does not constitute specific legal advice. Consult a licensed attorney for personalized guidance.\n\nThe **Statute of Limitations** is a law that sets a time limit for filing a lawsuit or taking legal action. It's a deadline that varies depending on the type of case, the jurisdiction (state or federal), and the specific laws involved.\n\nThink of it like a clock that starts ticking from the moment an incident or wrongdoing occurs. If the clock runs out before you file a lawsuit, you may lose your right to pursue compensation or justice.\n\nHere's a breakdown:\n\n1. **Purpose:** The Statute of Limitations aims to:\n\t* Prevent stale claims (old, unresolved cases)\n\t* Encourage prompt action\n\t* Reduce the burden on courts and defendants\n2. **Types of cases:** Different statutes of limitations apply to various types of cases, such as:\n\t* Personal injury (e.g., car accidents, medical malpractice)\n\t* Property damage\n\t* Contract disputes\n\t* Criminal cases\n3. **Calculation:** The clock typically starts ticking from the date of the incident, injury, or wrongdoing. The time limit can range from a few months to several years, depending on the jurisdiction and case type.\n4. **Exceptions:** Some cases have longer or shorter statutes of limitations, and certain circumstances can extend or toll the time limit, such as:\n\t* Minors or incapacitated individuals\n\t* Cases involving government",
+        "response_time": 0.9375874996185303,
+        "word_count": 228,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Due Process",
+        "formatted_prompt": "Define and explain this legal term in simple language: Due Process",
+        "response": "**Disclaimer:** This response is for general informational purposes only and is not intended to provide specific legal advice. If you have questions or concerns about due process, please consult a licensed attorney in the United States.\n\n**Due Process:**\n\nDue process is a fundamental principle in the United States that ensures individuals are treated fairly and justly under the law. It is a cornerstone of the American system of justice and is guaranteed by the Fifth and Fourteenth Amendments to the U.S. Constitution.\n\n**What does Due Process mean?**\n\nDue process has two main components:\n\n1. **Procedural Due Process:** This ensures that individuals are given fair notice and an opportunity to be heard before a government agency or court can take action against them. This includes the right to a fair trial, the right to an attorney, and the right to confront witnesses.\n2. **Substantive Due Process:** This ensures that government actions are reasonable and do not violate an individual's fundamental rights, such as their right to life, liberty, or property.\n\n**Examples of Due Process:**\n\n* A police officer must read you your rights before arresting you (Miranda rights).\n* You have the right to a fair trial, including the right to an attorney and the right to confront witnesses.\n* A government agency must give you notice before taking away your property or benefits.\n\n**Why is Due Process important?**\n\nDue process is essential to prevent abuses of power and to protect individual rights. It ensures that individuals are treated fairly and",
+        "response_time": 0.7358496189117432,
+        "word_count": 250,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Consideration in contract law",
+        "formatted_prompt": "Define and explain this legal term in simple language: Consideration in contract law",
+        "response": "**Disclaimer:** I'm an AI legal assistant, and while I can provide general information on US law, I'm not a licensed attorney. Please consult a qualified attorney for specific advice.\n\n**Consideration in Contract Law:**\n\nIn contract law, \"consideration\" refers to the exchange of something of value between two parties when they enter into a contract. It's a fundamental element that makes a contract enforceable. Consideration can take many forms, such as:\n\n1. **Money**: Payment or the promise of payment.\n2. **Services**: Performing a specific task or providing expertise.\n3. **Goods**: Delivering or transferring ownership of a product.\n4. **Promises**: Making a commitment to do something in the future.\n5. **Sacrifices**: Giving up a right, privilege, or benefit.\n\nIn a contract, each party must provide consideration to the other. This is known as \"bilateral consideration\" (both parties give and receive something). If only one party provides consideration, it's called \"unilateral consideration,\" and the contract may be unenforceable.\n\n**Example:**\n\nJohn agrees to paint Sarah's house in exchange for $5,000. In this scenario:\n\n* John provides consideration (painting the house) in exchange for Sarah's consideration (payment of $5,000).\n* Both parties receive something of value, making the contract enforceable.\n\n**Key Principles:**\n\n1. **Mutuality of Obligation**: Both parties must have",
+        "response_time": 0.7324562072753906,
+        "word_count": 205,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Tort law",
+        "formatted_prompt": "Define and explain this legal term in simple language: Tort law",
+        "response": "**Disclaimer:** I'm a professional AI legal assistant, and I'll provide a general explanation of tort law. However, please consult a licensed attorney for specific situations, as this information is not intended to be taken as legal advice.\n\n**Tort Law:**\n\nTort law is a branch of United States law that deals with civil wrongs or injuries that are not necessarily related to a contract. It's a way to compensate individuals for harm or damage they've suffered due to someone else's actions or negligence.\n\nImagine you're walking down the street and someone accidentally drops a heavy object on your foot. You might be able to sue the person for the harm they caused, even if you didn't have a pre-existing agreement with them. This is an example of a tort.\n\n**Types of Torts:**\n\nThere are several types of torts, including:\n\n1. **Intentional Torts:** These are actions that are meant to harm someone, such as assault, battery, or defamation.\n2. **Negligent Torts:** These are actions that are careless or reckless, such as a driver who runs a red light and hits another car.\n3. **Strict Liability Torts:** These are situations where someone is held responsible for an injury, even if they weren't directly at fault, such as a manufacturer who produces a defective product.\n\n**Key Principles:**\n\nTort law is based on several key principles, including:\n\n1. **Duty of Care:** Individuals have a responsibility",
+        "response_time": 0.6567103862762451,
+        "word_count": 230,
+        "success": true,
+        "error": null
+      }
+    ]
+  },
+  "process": {
+    "template_type": "process",
+    "description": "Step-by-step processes",
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "average_response_time": 0.7129119396209717,
+    "average_word_count": 222.0,
+    "test_results": [
+      {
+        "query": "Filing for divorce",
+        "formatted_prompt": "Explain the step-by-step legal process for: Filing for divorce",
+        "response": "**Disclaimer:** The information provided is general and for educational purposes only. It is not a substitute for professional advice. If you are considering filing for divorce, please consult a licensed attorney in your jurisdiction for specific guidance.\n\nFiling for divorce can be a complex and emotionally challenging process. Here's a general overview of the step-by-step process:\n\n**Step 1: Determine the Grounds for Divorce**\n\nIn the United States, divorce laws vary by state. Some states are \"no-fault\" states, where you can file for divorce without alleging fault (e.g., infidelity or abandonment). Other states are \"fault\" states, where you must prove fault to obtain a divorce. Research your state's laws to determine the grounds for divorce.\n\n**Step 2: Meet the Residency Requirements**\n\nMost states require that you reside within the state for a specific period (usually 6-12 months) before filing for divorce. This ensures that the court has jurisdiction over your divorce case.\n\n**Step 3: Gather Required Documents**\n\nTo file for divorce, you'll need to gather various documents, including:\n\n*   Proof of residency (e.g., utility bills, lease agreements)\n*   Marriage certificate\n*   Financial records (e.g., tax returns, bank statements)\n*   Property deeds or titles\n*   Any other relevant documents (e.g., child custody agreements, prenuptial agreements)\n\n**Step 4: Choose a Filing Method**\n\nYou can file for divorce",
+        "response_time": 0.6642279624938965,
+        "word_count": 214,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Starting a small business",
+        "formatted_prompt": "Explain the step-by-step legal process for: Starting a small business",
+        "response": "**Disclaimer:** This is a general overview of the legal process for starting a small business in the United States. It is not specific legal advice and should not be relied upon for making decisions. Consulting a licensed attorney in the relevant state is highly recommended for specific guidance.\n\nStarting a small business in the United States involves several steps that can be summarized as follows:\n\n**Step 1: Business Planning and Research (Weeks 1-4)**\n\n1. **Develop a business plan:** Outline your business goals, target market, financial projections, and marketing strategy.\n2. **Conduct market research:** Gather data on your target audience, competitors, and market trends.\n3. **Choose a business structure:** Decide on a sole proprietorship, partnership, LLC, or corporation.\n4. **Obtain necessary licenses and permits:** Check with your state and local government for required licenses and permits.\n\n**Step 2: Business Registration (Weeks 5-8)**\n\n1. **Choose a business name:** Ensure it is unique and compliant with state regulations.\n2. **Register your business:** File articles of incorporation (if forming a corporation) or articles of organization (if forming an LLC) with the Secretary of State.\n3. **Obtain an Employer Identification Number (EIN):** Apply for an EIN from the IRS.\n4. **Register for taxes:** Obtain any necessary state and local tax licenses.\n\n**Step 3: Formation of Business Entities (Weeks 9-12",
+        "response_time": 0.7863693237304688,
+        "word_count": 214,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Applying for a patent",
+        "formatted_prompt": "Explain the step-by-step legal process for: Applying for a patent",
+        "response": "**Disclaimer:** This is a general explanation of the patent application process in the United States. It is not intended to be a substitute for specific legal advice. Consult a licensed patent attorney for guidance on your individual situation.\n\nThe step-by-step legal process for applying for a patent in the United States is as follows:\n\n1. **Determine Patent Eligibility**: Before applying for a patent, you must determine if your invention is eligible for patent protection. The U.S. Patent and Trademark Office (USPTO) considers inventions that are new, non-obvious, and useful to be patentable. You should review the USPTO's guidelines on patent eligibility to ensure your invention meets these criteria.\n\n2. **Conduct a Patent Search**: A patent search helps you determine if your invention is novel and non-obvious by comparing it to existing patents. This search can be done using online databases, such as the USPTO's Patent Full-Text and Image Database (PatFT), or by hiring a patent attorney to conduct a thorough search.\n\n3. **Determine the Type of Patent**: There are several types of patents, including utility patents, design patents, and plant patents. Utility patents cover functional inventions, design patents cover ornamental designs, and plant patents cover new and distinct plant varieties.\n\n4. **Prepare a Patent Application**: A patent application typically includes:\n\t* A background of the invention, describing the problem your invention solves and the prior art.\n\t* A summary of the",
+        "response_time": 0.6300296783447266,
+        "word_count": 231,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Filing a lawsuit",
+        "formatted_prompt": "Explain the step-by-step legal process for: Filing a lawsuit",
+        "response": "**Disclaimer:** This is a general overview of the step-by-step process for filing a lawsuit in the United States. This is not specific legal advice and should not be relied upon for individual circumstances. Consult a licensed attorney for specific guidance on your situation.\n\nFiling a lawsuit involves several steps, which may vary depending on the jurisdiction and the type of case. Here's a general outline of the process:\n\n**Step 1: Determine if You Have a Valid Claim (Pre-Suit)**\n\n* Review the relevant laws and regulations to determine if you have a valid claim.\n* Consider consulting with an attorney to assess the strength of your case.\n* Gather evidence and documentation to support your claim.\n\n**Step 2: Choose the Right Court (Venue)**\n\n* Determine which court has jurisdiction over your case (e.g., federal, state, or local court).\n* Consider the court's rules, procedures, and deadlines.\n* Ensure the court has the authority to hear your type of case.\n\n**Step 3: Prepare the Complaint (Petition)**\n\n* Draft a complaint (petition) that outlines the facts of your case, your claims, and the relief you seek.\n* Include the necessary elements, such as:\n\t+ Parties involved (plaintiff and defendant)\n\t+ Jurisdiction and venue\n\t+ Factual allegations\n\t+ Causes of action\n\t+ Demand for relief\n* Have an attorney review and revise your complaint as needed.\n\n**Step 4: File the Complaint (",
+        "response_time": 0.6749851703643799,
+        "word_count": 228,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Creating a will",
+        "formatted_prompt": "Explain the step-by-step legal process for: Creating a will",
+        "response": "**Disclaimer:** The following information is a general overview of the will creation process in the United States. It is not a substitute for personalized advice from a licensed attorney. For specific guidance, please consult an attorney familiar with your state's laws.\n\nCreating a will is a crucial aspect of estate planning, ensuring that your assets are distributed according to your wishes after your passing. Here's a step-by-step guide to the will creation process:\n\n1. **Determine Your State's Laws**: Familiarize yourself with your state's specific laws regarding wills, as they may vary. Some states have unique requirements or restrictions on will creation.\n\n2. **Gather Information**: Collect the necessary details for your will, including:\n\t* Your assets (real estate, personal property, bank accounts, etc.)\n\t* Beneficiaries (who will inherit your assets)\n\t* Executor (the person responsible for managing your estate)\n\t* Guardians (for minor children or incapacitated individuals)\n\t* Funeral and burial instructions (if desired)\n\n3. **Choose a Will Type**: Decide on the type of will you want to create:\n\t* **Simple Will**: A basic will that covers the distribution of assets and appointment of an executor.\n\t* **Living Will**: A document that outlines your medical treatment preferences if you become incapacitated.\n\t* **Joint Will**: A will shared between spouses or partners.\n\t* **Testamentary Trust**: A will that creates a trust for beneficiaries.\n\n4. **Select",
+        "response_time": 0.8089475631713867,
+        "word_count": 223,
+        "success": true,
+        "error": null
+      }
+    ]
+  },
+  "rights": {
+    "template_type": "rights",
+    "description": "Legal rights information",
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "average_response_time": 0.46764383316040037,
+    "average_word_count": 103.4,
+    "test_results": [
+      {
+        "query": "Employee privacy in the workplace",
+        "formatted_prompt": "What are the legal rights regarding: Employee privacy in the workplace",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.2006981372833252,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Tenant rights against eviction",
+        "formatted_prompt": "What are the legal rights regarding: Tenant rights against eviction",
+        "response": "**Disclaimer:** The information provided is general in nature and does not constitute specific legal advice. For specific situations, it is recommended that you consult a licensed attorney in the United States.\n\nIn the United States, tenant rights regarding eviction vary from state to state, but there are some general federal laws and principles that apply. The main federal law governing landlord-tenant relationships is the **Fair Housing Act (FHA)**, which prohibits discrimination in housing based on factors such as race, color, national origin, sex, familial status, and disability.\n\n**State Laws:** Each state has its own laws and regulations regarding eviction, which may include:\n\n1. **Notice Periods:** Some states require landlords to provide a certain number of days' notice before evicting a tenant, which can range from 3 to 60 days.\n2. **Grounds for Eviction:** States may have specific grounds for eviction, such as non-payment of rent, lease violations, or abandonment of the property.\n3. **Eviction Procedures:** States may have different procedures for eviction, including court proceedings, sheriff's sales, or self-help evictions.\n\n**General Tenant Rights:**\n\n1. **Due Process:** Tenants have the right to a fair and timely eviction process, which includes notice, a court hearing, and the opportunity to defend themselves.\n2. **Notice of Eviction:** Tenants have the right to receive a written notice of eviction, which must include the reasons for the eviction and the date by",
+        "response_time": 0.9572470188140869,
+        "word_count": 226,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Consumer protection for defective products",
+        "formatted_prompt": "What are the legal rights regarding: Consumer protection for defective products",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.23260736465454102,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Freedom of speech limitations",
+        "formatted_prompt": "What are the legal rights regarding: Freedom of speech limitations",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.27996110916137695,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Patient rights in healthcare",
+        "formatted_prompt": "What are the legal rights regarding: Patient rights in healthcare",
+        "response": "**Disclaimer:** The information provided is for general knowledge purposes only and should not be considered as specific legal advice. For individual situations, it is always best to consult a licensed attorney or a qualified healthcare professional.\n\nIn the United States, patient rights in healthcare are protected by various federal and state laws, regulations, and guidelines. Some key rights include:\n\n1. **Right to Informed Consent**: Patients have the right to be fully informed about their medical condition, treatment options, and risks associated with each option. (42 CFR § 482.12)\n2. **Right to Autonomy**: Patients have the right to make decisions about their own medical care, including refusing treatment or accepting alternative treatments. (42 CFR § 482.13)\n3. **Right to Confidentiality**: Patients have the right to expect that their medical records and personal health information will be kept confidential and not shared without their consent. (42 CFR § 164.502)\n4. **Right to Access Medical Records**: Patients have the right to access their medical records, including laboratory results, test results, and other health information. (42 CFR § 164.524)\n5. **Right to Refuse Treatment**: Patients have the right to refuse treatment, including life-sustaining treatments such as ventilators or dialysis. (42 CFR § 482.13)\n6. **Right to Quality Care**: Patients have the right to receive high-quality care, including timely treatment and adequate pain management. (42 CFR §",
+        "response_time": 0.6677055358886719,
+        "word_count": 222,
+        "success": true,
+        "error": null
+      }
+    ]
+  },
+  "requirements": {
+    "template_type": "requirements",
+    "description": "Legal requirements",
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "average_response_time": 0.353609561920166,
+    "average_word_count": 61.4,
+    "test_results": [
+      {
+        "query": "Starting a nonprofit organization",
+        "formatted_prompt": "What are the legal requirements for: Starting a nonprofit organization",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.27715206146240234,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Getting married legally",
+        "formatted_prompt": "What are the legal requirements for: Getting married legally",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.2183210849761963,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Adopting a child",
+        "formatted_prompt": "What are the legal requirements for: Adopting a child",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.24884939193725586,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Obtaining a business license",
+        "formatted_prompt": "What are the legal requirements for: Obtaining a business license",
+        "response": "**Disclaimer:** The following information is a general overview of the legal requirements for obtaining a business license in the United States. It is not specific legal advice and should not be relied upon for individual circumstances. Consult a licensed attorney in the relevant state or locality for specific guidance.\n\nIn the United States, the requirements for obtaining a business license vary by state, locality, and type of business. Here are some general steps and considerations:\n\n1. **Business Structure:** Determine the business structure (e.g., sole proprietorship, partnership, corporation, LLC) and obtain necessary licenses and registrations for that structure.\n2. **Business Name:** Choose a unique business name and check if it is available in the state and locality. Some states require a fictitious business name (DBA - Doing Business As) registration.\n3. **Business Registration:** Register the business with the state and obtain a business identification number (e.g., Employer Identification Number (EIN) from the IRS).\n4. **Local Licenses and Permits:** Obtain licenses and permits from local authorities, such as:\n\t* Business license or permit\n\t* Sales tax permit\n\t* Zoning permit\n\t* Environmental permits (e.g., air, water, waste)\n\t* Health department permit (e.g., food service, childcare)\n5. **Industry-Specific Licenses:** Obtain licenses specific to the industry, such as:\n\t* Professional licenses (e.g., medical, law, engineering)\n\t* Trade licenses (e",
+        "response_time": 0.7311146259307861,
+        "word_count": 215,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Applying for US citizenship",
+        "formatted_prompt": "What are the legal requirements for: Applying for US citizenship",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.29261064529418945,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      }
+    ]
+  },
+  "consequences": {
+    "template_type": "consequences",
+    "description": "Legal consequences",
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "average_response_time": 0.35375118255615234,
+    "average_word_count": 66.0,
+    "test_results": [
+      {
+        "query": "Breach of contract",
+        "formatted_prompt": "What are the legal consequences of: Breach of contract",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.21264433860778809,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Driving under the influence",
+        "formatted_prompt": "What are the legal consequences of: Driving under the influence",
+        "response": "**Disclaimer: This response provides general information about the legal consequences of driving under the influence (DUI) in the United States. It is not a substitute for specific legal advice, which should be obtained from a licensed attorney in your jurisdiction.**\n\nDriving under the influence (DUI) is a serious offense in the United States, and its consequences can be severe. The specific penalties and consequences may vary depending on the state and the circumstances of the offense.\n\n**Common Legal Consequences of DUI:**\n\n1. **Arrest and Charges:** If you are stopped by law enforcement and suspected of driving under the influence, you may be arrested and charged with a crime. The charge may be a misdemeanor or a felony, depending on the circumstances.\n2. **Fines and Penalties:** If convicted of a DUI, you may face fines, penalties, and court costs. The amount of the fine may vary depending on the state and the severity of the offense.\n3. **License Suspension or Revocation:** In most states, a DUI conviction will result in the suspension or revocation of your driver's license. The length of the suspension or revocation may vary depending on the state and the number of previous offenses.\n4. **Jail Time:** In some cases, a DUI conviction may result in jail time. The length of the sentence may vary depending on the state and the severity of the offense.\n5. **Ignition Interlock Device (IID):** In some states, a DUI conviction",
+        "response_time": 0.6218295097351074,
+        "word_count": 238,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Tax evasion",
+        "formatted_prompt": "What are the legal consequences of: Tax evasion",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.2284386157989502,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Copyright infringement",
+        "formatted_prompt": "What are the legal consequences of: Copyright infringement",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.4780709743499756,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Violating a restraining order",
+        "formatted_prompt": "What are the legal consequences of: Violating a restraining order",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.22777247428894043,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      }
+    ]
+  },
+  "documentation": {
+    "template_type": "documentation",
+    "description": "Required documents",
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "average_response_time": 0.4922670841217041,
+    "average_word_count": 100.0,
+    "test_results": [
+      {
+        "query": "Real estate transactions",
+        "formatted_prompt": "What documentation is needed for: Real estate transactions",
+        "response": "**Disclaimer: This is general information and not specific legal advice. For actual real estate transactions, it is essential to consult a licensed attorney or real estate expert in the United States.**\n\nIn the United States, various documentation is typically required for real estate transactions, including:\n\n1. **Purchase Agreement (Offer to Purchase or Real Estate Purchase Agreement)**: This document outlines the terms of the sale, including the purchase price, closing date, contingencies, and other conditions.\n2. **Title Search and Title Report**: A title search verifies the seller's ownership and ensures there are no outstanding liens or encumbrances on the property. A title report summarizes the findings.\n3. **Title Insurance Policy**: This policy protects the buyer and lender from title-related risks, such as unknown liens or disputes over ownership.\n4. **Deed**: A deed transfers ownership of the property from the seller to the buyer. There are different types of deeds, including:\n\t* **Warranty Deed**: Provides a guarantee of the seller's ownership and title.\n\t* **Quitclaim Deed**: Transfers whatever ownership interest the seller has in the property.\n\t* **Special Warranty Deed**: Provides a limited warranty of the seller's ownership.\n5. **Closing Documents**:\n\t* **Closing Statement (Settlement Statement)**: Outlines the financial details of the transaction, including the purchase price, credits, and charges.\n\t* **Mortgage Note**: If the buyer is financing",
+        "response_time": 0.9425392150878906,
+        "word_count": 216,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Employment agreements",
+        "formatted_prompt": "What documentation is needed for: Employment agreements",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.29862236976623535,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Loan applications",
+        "formatted_prompt": "What documentation is needed for: Loan applications",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.2777833938598633,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Immigration proceedings",
+        "formatted_prompt": "What documentation is needed for: Immigration proceedings",
+        "response": "**Disclaimer:** This is general information and not specific legal advice. Immigration law is complex, and individual circumstances may vary. It is essential to consult a licensed immigration attorney for personalized guidance.\n\nFor immigration proceedings in the United States, the following documentation may be required:\n\n1. **Application Form**: The specific application form (e.g., Form I-130, Form I-485, or Form I-140) will depend on the type of immigration benefit being sought.\n2. **Passport**: A valid passport is usually required as proof of identity and nationality.\n3. **Birth Certificate**: A certified copy of the birth certificate may be required to establish the applicant's age, identity, and citizenship status.\n4. **Marriage Certificate**: If applicable, a certified copy of the marriage certificate may be required to establish a qualifying relationship.\n5. **Divorce or Death Certificate**: If applicable, a certified copy of the divorce or death certificate may be required to establish the termination of a prior marriage or the death of a spouse.\n6. **Proof of Relationship**: Documents establishing a qualifying relationship, such as:\n\t* Joint bank statements\n\t* Utility bills\n\t* Photos\n\t* Correspondence\n7. **Proof of Income**: Documents establishing the applicant's income, such as:\n\t* Tax returns\n\t* Pay stubs\n\t* W-2 forms\n\t* Business financial statements\n8. **Proof of Employment**: Documents establishing the applicant's employment, such as:\n",
+        "response_time": 0.729179859161377,
+        "word_count": 215,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Medical malpractice claims",
+        "formatted_prompt": "What documentation is needed for: Medical malpractice claims",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.2132105827331543,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      }
+    ]
+  },
+  "costs": {
+    "template_type": "costs",
+    "description": "Legal costs and fees",
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "average_response_time": 0.3376602649688721,
+    "average_word_count": 51.8,
+    "test_results": [
+      {
+        "query": "Hiring a lawyer for divorce",
+        "formatted_prompt": "What are the typical costs and fees associated with: Hiring a lawyer for divorce",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.23049497604370117,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Filing a patent application",
+        "formatted_prompt": "What are the typical costs and fees associated with: Filing a patent application",
+        "response": "**Disclaimer:** This response provides general information about the costs and fees associated with filing a patent application in the United States. It is not intended to be a comprehensive or specific analysis of your situation. For accurate and personalized advice, consult a licensed patent attorney.\n\n**Typical Costs and Fees Associated with Filing a Patent Application:**\n\n1. **Patent Attorney Fees:**\n\t* Initial consultation: $100-$500\n\t* Patent search and analysis: $500-$2,000\n\t* Patent drafting and preparation: $2,000-$10,000\n\t* Patent prosecution (filing and responding to office actions): $2,000-$10,000\n\t* Total estimated cost: $5,000-$22,500\n2. **USPTO Filing Fees:**\n\t* Utility patent application: $65-$280 (depending on the size of the application)\n\t* Design patent application: $65-$280 (depending on the size of the application)\n\t* Provisional patent application: $65-$280 (depending on the size of the application)\n3. **Patent Search Fees:**\n\t* Basic patent search: $100-$500\n\t* Comprehensive patent search: $500-$2,000\n4. **Maintenance Fees:**\n\t* First maintenance fee (3.5 years after grant): $1,300\n\t* Second maintenance fee (7.5 years after grant): $2,600\n\t* Third",
+        "response_time": 0.6493794918060303,
+        "word_count": 167,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Starting a lawsuit",
+        "formatted_prompt": "What are the typical costs and fees associated with: Starting a lawsuit",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.24004721641540527,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Real estate closing costs",
+        "formatted_prompt": "What are the typical costs and fees associated with: Real estate closing costs",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.25670719146728516,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Bankruptcy attorney fees",
+        "formatted_prompt": "What are the typical costs and fees associated with: Bankruptcy attorney fees",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.3116724491119385,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      }
+    ]
+  },
+  "evidence": {
+    "template_type": "evidence",
+    "description": "Evidence requirements",
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "average_response_time": 0.5988837242126465,
+    "average_word_count": 108.0,
+    "test_results": [
+      {
+        "query": "Car accident claims",
+        "formatted_prompt": "What evidence is needed for: Car accident claims",
+        "response": "**Disclaimer:** The following information is general in nature and is not intended to provide specific legal advice. Consult a licensed attorney for guidance on your individual situation.\n\nIn the United States, evidence is crucial for establishing liability and recovering damages in car accident claims. Here are some common types of evidence that may be relevant:\n\n1. **Police Report:** A police report can provide valuable information about the accident, including the date, time, location, and details about the vehicles and parties involved.\n2. **Witness Statements:** Statements from eyewitnesses can help establish liability and corroborate the account of the parties involved.\n3. **Photographic and Video Evidence:** Photos and videos of the accident scene, vehicles, and injuries can be used to establish the severity of the accident and the extent of damages.\n4. **Medical Records:** Medical records and bills can help establish the extent of injuries and the costs associated with treatment.\n5. **Repair Estimates:** Repair estimates for damaged vehicles can help establish the costs associated with repairing or replacing the vehicle.\n6. **Lost Wages and Income Statements:** Statements from employers or financial records can help establish lost wages and income resulting from the accident.\n7. **Expert Opinions:** Expert opinions from accident reconstructionists, engineers, or other professionals can help establish liability and the extent of damages.\n8. **Vehicle Inspection Reports:** Reports from vehicle inspections can help establish the extent of vehicle damage and the costs associated with repairing or replacing the vehicle.\n9. **Surveillance Footage:**",
+        "response_time": 0.8219349384307861,
+        "word_count": 242,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Medical malpractice cases",
+        "formatted_prompt": "What evidence is needed for: Medical malpractice cases",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.3474307060241699,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Contract breach disputes",
+        "formatted_prompt": "What evidence is needed for: Contract breach disputes",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.4386615753173828,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Workplace harassment cases",
+        "formatted_prompt": "What evidence is needed for: Workplace harassment cases",
+        "response": "**Disclaimer:** This response is for general information purposes only and should not be considered as specific legal advice. Consult a licensed attorney for individualized guidance on workplace harassment cases.\n\nIn the United States, workplace harassment cases typically require evidence to establish a prima facie case. The specific types of evidence needed may vary depending on the type of harassment alleged (e.g., quid pro quo, hostile work environment, or retaliation). Here are some common types of evidence that may be relevant in workplace harassment cases:\n\n1. **Direct Evidence:** This includes:\n\t* Witness statements or testimony from coworkers, supervisors, or other individuals who witnessed the harassment.\n\t* Emails, text messages, or other electronic communications that demonstrate the harassment.\n\t* Photographs, videos, or other physical evidence that supports the allegations.\n2. **Indirect Evidence:** This includes:\n\t* Patterns or practices of harassment within the workplace.\n\t* Statistical evidence of unequal treatment or disparate impact on protected groups.\n\t* Expert testimony on the impact of harassment on victims.\n3. **Circumstantial Evidence:** This includes:\n\t* Changes in the victim's behavior or performance following the alleged harassment.\n\t* Evidence of retaliation against the victim for reporting the harassment.\n\t* Evidence of a hostile work environment, such as a culture of fear or intimidation.\n4. **Documentation:** This includes:\n\t* Records of complaints, reports, or investigations related to the harassment.\n\t* Emails, memos, or other written communications that",
+        "response_time": 0.9533264636993408,
+        "word_count": 229,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Intellectual property theft",
+        "formatted_prompt": "What evidence is needed for: Intellectual property theft",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.43306493759155273,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      }
+    ]
+  },
+  "defenses": {
+    "template_type": "defenses",
+    "description": "Legal defenses",
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "average_response_time": 0.41377835273742675,
+    "average_word_count": 59.8,
+    "test_results": [
+      {
+        "query": "Self-defense claims",
+        "formatted_prompt": "What are the common legal defenses for: Self-defense claims",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.43132877349853516,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Contract disputes",
+        "formatted_prompt": "What are the common legal defenses for: Contract disputes",
+        "response": "**Disclaimer:** The following information is for general knowledge purposes only and should not be considered as specific legal advice. Consult a licensed attorney for guidance on contract disputes.\n\nIn contract disputes, various defenses can be raised by the parties involved. Some common defenses include:\n\n1. **Lack of Consideration**: This defense argues that one party did not receive something of value in exchange for their promises or obligations. (See UCC 2-311)\n2. **Duress**: A party may claim that they were forced into signing the contract due to coercion, threats, or other forms of pressure. (See Restatement (Second) of Contracts § 175)\n3. **Undue Influence**: Similar to duress, this defense suggests that one party took advantage of the other's vulnerability, such as an elderly person or someone with a disability. (See Restatement (Second) of Contracts § 175)\n4. **Unconscionability**: A party may argue that the contract is grossly unfair or one-sided, and therefore, unenforceable. (See UCC 2-302)\n5. **Mistake**: A party may claim that there was a mistake in the contract's terms, such as a misunderstanding of the parties' intentions or a clerical error. (See Restatement (Second) of Contracts § 152)\n6. **Illegality**: If a contract involves an illegal activity or violates a law, it may be considered unenforceable",
+        "response_time": 0.9056785106658936,
+        "word_count": 207,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Criminal charges",
+        "formatted_prompt": "What are the common legal defenses for: Criminal charges",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.22269821166992188,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Product liability lawsuits",
+        "formatted_prompt": "What are the common legal defenses for: Product liability lawsuits",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.2611348628997803,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      },
+      {
+        "query": "Debt collection defense",
+        "formatted_prompt": "What are the common legal defenses for: Debt collection defense",
+        "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+        "response_time": 0.24805140495300293,
+        "word_count": 23,
+        "success": true,
+        "error": null
+      }
+    ]
+  }
+}

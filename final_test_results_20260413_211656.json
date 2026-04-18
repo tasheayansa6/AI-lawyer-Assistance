@@ -1,0 +1,602 @@
+{
+  "test_date": "2026-04-13T21:16:56.292879",
+  "total_questions": 50,
+  "successful_tests": 50,
+  "failed_tests": 0,
+  "category_stats": {
+    "Contract Law": {
+      "total": 10,
+      "success": 10,
+      "avg_time": 0.8940631151199341,
+      "avg_words": 281.2
+    },
+    "Family Law": {
+      "total": 8,
+      "success": 8,
+      "avg_time": 0.5067674517631531,
+      "avg_words": 59.25
+    },
+    "Criminal Law": {
+      "total": 7,
+      "success": 7,
+      "avg_time": 0.3358067784990583,
+      "avg_words": 63.857142857142854
+    },
+    "Property Law": {
+      "total": 6,
+      "success": 6,
+      "avg_time": 0.35435684521993,
+      "avg_words": 68.66666666666667
+    },
+    "Business Law": {
+      "total": 6,
+      "success": 6,
+      "avg_time": 0.3659409284591675,
+      "avg_words": 69.0
+    },
+    "Tort Law": {
+      "total": 6,
+      "success": 6,
+      "avg_time": 0.3888237476348877,
+      "avg_words": 68.66666666666667
+    },
+    "Estate Planning": {
+      "total": 7,
+      "success": 7,
+      "avg_time": 0.3319934095655169,
+      "avg_words": 62.857142857142854
+    }
+  },
+  "detailed_results": [
+    {
+      "question": "What are the essential elements of a valid contract?",
+      "category": "Contract Law",
+      "response": "**Disclaimer:** This response is for general informational purposes only and does not constitute specific legal advice. Consult a licensed attorney for guidance on contract law and its application to your specific situation.\n\nIn the United States, the essential elements of a valid contract are:\n\n1. **Offer and Acceptance**: One party must make an offer, and the other party must accept it. The acceptance must be clear and unambiguous, and it must be made in the manner specified by the offeror (e.g., verbally or in writing).\n2. **Consideration**: Both parties must provide something of value, known as consideration, in exchange for the promises made in the contract. This can be a payment, a service, or a promise to perform a specific action.\n3. **Capacity**: All parties to the contract must have the capacity to enter into a binding agreement. This means they must be:\n\t* Of sound mind\n\t* At least 18 years old (or the age of majority in their state)\n\t* Not under duress or coercion\n\t* Not mentally incapacitated\n4. **Legality**: The contract must not involve any illegal or immoral activities. For example, contracts involving fraud, theft, or other crimes are not enforceable.\n5. **Mutuality of Obligation**: Both parties must have a clear understanding of their obligations and the other party's obligations. This ensures that each party is aware of what is expected of them.\n6. **Definiteness**: The contract must clearly outline the terms and conditions of the agreement, including the parties involved, the subject matter, and the duration of the contract.\n7. **Written or Verbal**: Contracts can be either written or verbal, but written contracts are generally preferred as they provide a clear record of the agreement.\n\n**Additional Considerations:**\n\n* **Statute of Frauds**: In some states, certain types of contracts (e.g., real estate contracts, contracts involving a promise to pay a debt) must be",
+      "response_time": 0.8788166046142578,
+      "word_count": 307,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How can a contract be legally terminated?",
+      "category": "Contract Law",
+      "response": "**Disclaimer:** I'm a professional AI legal assistant, and this response is intended to provide general information about contract termination in the United States. It is not specific legal advice. Consult a licensed attorney for guidance on terminating a contract in your specific situation.\n\nIn the United States, a contract can be terminated in several ways, depending on the type of contract, the circumstances, and the parties involved. Here are some common methods of contract termination:\n\n1. **Mutual Agreement (Release or Cancellation)**: Both parties can agree to terminate the contract by signing a release or cancellation document. This method is often used when the contract is still in its early stages or when both parties have mutually decided to end the agreement.\n2. **Breach of Contract**: If one party fails to fulfill their obligations under the contract, the other party may terminate the contract. The non-breaching party must provide written notice to the breaching party, specifying the breach and demanding performance or termination.\n3. **Default**: If one party fails to meet a material obligation under the contract, the other party may declare the contract in default and terminate it.\n4. **Frustration of Purpose**: If an event occurs that makes it impossible or impracticable to perform the contract, the contract may be terminated.\n5. **Force Majeure**: If an unforeseen event, such as a natural disaster or war, makes it impossible to perform the contract, the contract may be terminated.\n6. **Statute of Limitations**: If a contract is not performed within the specified timeframe, it may be considered terminated due to the expiration of the statute of limitations.\n7. **Termination for Convenience**: In some contracts, one party has the right to terminate the contract at any time, without cause, by providing written notice to the other party.\n\n**Important Considerations:**\n\n* Termination of a contract can have significant consequences, including financial penalties, loss of business opportunities, or damage to reputation.\n* Before terminating",
+      "response_time": 0.9015457630157471,
+      "word_count": 319,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is the difference between void and voidable contracts?",
+      "category": "Contract Law",
+      "response": "**Disclaimer:** The following information is for general knowledge purposes only and should not be considered as specific legal advice. It's essential to consult a licensed attorney for individual situations.\n\nIn the United States, contracts can be either void or voidable. The distinction between these two concepts is crucial in understanding their implications and consequences.\n\n**Void Contracts:**\n\nA void contract is one that is considered null and void from the beginning. It is as if the contract never existed. Void contracts are typically formed when a party lacked the capacity to enter into a contract (e.g., minors, individuals with mental incapacities, or those under duress). In such cases, the contract is automatically unenforceable, and neither party has any rights or obligations under it.\n\n**Voidable Contracts:**\n\nA voidable contract, on the other hand, is one that can be declared void by one or both parties. This type of contract is usually formed when a party has a valid reason to rescind the contract, such as:\n\n1. **Undue influence:** One party has exerted significant influence over the other, making the contract unfair or unconsented.\n2. **Duress:** A party is forced to enter into a contract against their will, often due to threats or coercion.\n3. **Mistake:** A party enters into a contract with a misunderstanding or misrepresentation of facts.\n4. **Fraud:** A party makes false statements or representations to induce the other party to enter into the contract.\n\nIn cases of voidable contracts, one or both parties can choose to rescind the contract, making it void. However, if the other party has already performed their obligations or has changed their position in reliance on the contract, they may be entitled to damages or specific performance.\n\n**Key Takeaway:**\n\nThe primary difference between void and voidable contracts lies in their enforceability. Void contracts are automatically unenforceable from the start, while voidable contracts can be rescinded by one or",
+      "response_time": 0.8437957763671875,
+      "word_count": 313,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What constitutes breach of contract?",
+      "category": "Contract Law",
+      "response": "**Disclaimer:** The following information is general in nature and not intended to provide specific legal advice. For specific situations, it is always recommended to consult a licensed attorney in the United States.\n\nA breach of contract occurs when one or both parties to a contract fail to fulfill their obligations as stated in the contract. This can happen in various ways, including:\n\n1. **Non-performance**: A party fails to perform their required actions or services as specified in the contract.\n2. **Late performance**: A party delays their performance beyond the agreed-upon deadline.\n3. **Partial performance**: A party only partially performs their obligations, rather than fulfilling them in full.\n4. **Material breach**: A party fails to perform a significant or essential part of the contract, which may render the contract unenforceable or voidable.\n5. **Anticipatory repudiation**: A party indicates, before the time for performance, that they will not or cannot perform their obligations.\n\nTo establish a breach of contract, the non-breaching party typically must prove:\n\n1. **Existence of a valid contract**: The contract must be enforceable and in effect.\n2. **Breach of contract**: The breaching party failed to fulfill their obligations.\n3. **Damages**: The non-breaching party suffered harm or losses as a result of the breach.\n\n**Key laws and principles:**\n\n* The Uniform Commercial Code (UCC) governs contracts for the sale of goods in the United States (Article 2).\n* The Restatement (Second) of Contracts provides a framework for interpreting contract law in the United States.\n* The Federal Rules of Civil Procedure (FRCP) govern the process for filing and litigating breach of contract claims in federal court.\n\n**Important considerations:**\n\n* **Implied contracts**: Some contracts are implied by law or by the actions of the parties involved.\n* **Waiver**: A party may waive their right to enforce a contract term or condition.\n* **Mit",
+      "response_time": 0.8856201171875,
+      "word_count": 302,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How are damages calculated in contract disputes?",
+      "category": "Contract Law",
+      "response": "**Disclaimer:** I'm a professional AI legal assistant, and this response provides general information about damages calculation in contract disputes. It's essential to consult a licensed attorney for specific situations and personalized advice.\n\nIn contract disputes, damages calculation is a critical aspect of determining the compensation owed to a party when a contract is breached. The primary goal is to put the injured party in the position they would have been in if the contract had been performed as agreed upon. Here are some general principles and methods used to calculate damages:\n\n1. **Expectation Damages**: This is the most common type of damages calculation. It aims to restore the injured party to the position they would have been in if the contract had been performed as agreed upon. Expectation damages are typically calculated based on the contract's terms, including the price, quantity, or other specific provisions.\n2. **Consequential Damages**: These damages are intended to compensate the injured party for losses that are a direct result of the breach, such as lost profits, revenue, or other economic losses.\n3. **Compensatory Damages**: This type of damages is designed to compensate the injured party for the actual losses they suffered due to the breach, including out-of-pocket expenses, repair costs, or other direct losses.\n4. **Punitive Damages**: In some cases, punitive damages may be awarded to punish the breaching party for their actions and deter similar behavior in the future.\n\n**Methods of Damages Calculation:**\n\n1. **Lost Profits**: This method calculates the lost profits or revenue the injured party would have earned if the contract had been performed as agreed upon.\n2. **Replacement Cost**: This method calculates the cost of replacing the goods or services that were not provided due to the breach.\n3. **Market Value**: This method calculates the market value of the goods or services that were not provided due to the breach.\n4. **Mitigation of Damages**: This principle requires the injured party to take reasonable steps to",
+      "response_time": 0.784221887588501,
+      "word_count": 324,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is the statute of limitations for contract claims?",
+      "category": "Contract Law",
+      "response": "The statute of limitations for contract claims in the United States varies by state. Each state has its own laws governing the time period within which a party can bring a lawsuit for breach of contract.\n\n**Federal Law:**\nUnder federal law, the statute of limitations for contract claims is generally governed by the state in which the contract was made or performed. However, in some cases, federal law may apply, such as in contracts involving federal employees or federal property.\n\n**State Laws:**\nIn most states, the statute of limitations for contract claims ranges from 2 to 6 years. Here are some general guidelines:\n\n* 2 years: California, Delaware, and New York\n* 3 years: Florida, Illinois, and Texas\n* 4 years: Michigan and Ohio\n* 5 years: Pennsylvania\n* 6 years: Some states, including Colorado and Washington\n\nIt's essential to note that the statute of limitations may be tolled (paused) in certain circumstances, such as:\n\n* When a party is a minor or incapacitated\n* When a party is outside the state\n* When the contract is governed by a different state's law\n* When the contract involves a federal agency or instrumentality\n\n**Important Consideration:**\nThe statute of limitations is a strict deadline, and failure to bring a lawsuit within the time period may result in the loss of the right to pursue a claim. If you have a contract dispute, it's crucial to consult with a licensed attorney to determine the applicable statute of limitations and the best course of action.\n\n**Disclaimer:**\nThis information is provided for general educational purposes only and should not be considered specific legal advice. The statute of limitations for contract claims varies by state, and this response is not a substitute for consulting with a licensed attorney in your jurisdiction. Please consult with an attorney to determine the applicable statute of limitations and the best course of action for your specific situation.",
+      "response_time": 0.9078724384307861,
+      "word_count": 318,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "Can oral contracts be legally enforceable?",
+      "category": "Contract Law",
+      "response": "**Disclaimer:** This response is for general information purposes only and is not intended to provide specific legal advice. Consult a licensed attorney for guidance on your individual situation.\n\nIn the United States, oral contracts can be legally enforceable, but there are certain conditions and limitations that apply.\n\nUnder the **Uniform Commercial Code (UCC)**, which is adopted by most states, an oral contract for the sale of goods is generally enforceable if it meets certain requirements. This is outlined in Section 2-201 of the UCC, which states that a contract for the sale of goods may be made in any manner sufficient to show agreement, including by an oral agreement.\n\nHowever, for contracts involving **services** or **real property**, the situation is different. Under the **Statute of Frauds**, which is a federal law that has been adopted by all states, certain types of contracts must be in writing and signed by the parties to be enforceable. These include contracts:\n\n1. For the sale of real property (e.g., a house or land)\n2. For the sale of goods worth $500 or more\n3. For the sale of goods that are not in existence at the time of the contract (e.g., a custom-made item)\n4. For the payment of money or the performance of a promise that cannot be performed within one year from the date of the contract\n\nIf an oral contract does not meet the requirements of the Statute of Frauds, it may not be enforceable. However, even if an oral contract is not enforceable, the parties may still be able to recover damages or specific performance through other legal theories, such as **promissory estoppel** or **equitable estoppel**.\n\nIn summary, while oral contracts can be enforceable in certain situations, there are specific requirements and limitations that apply. Consult a licensed attorney to determine whether an oral contract is enforceable in your individual situation.\n\n**References:**\n\n* Uniform Commercial Code (UCC",
+      "response_time": 1.0488944053649902,
+      "word_count": 317,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is consideration in contract law?",
+      "category": "Contract Law",
+      "response": "**Disclaimer:** I'm an AI legal assistant, and while I can provide general information on US contract law, I'm not a licensed attorney and cannot provide specific legal advice. Consult a licensed attorney for personalized guidance.\n\nIn US contract law, consideration is a fundamental element that makes a contract enforceable. Consideration is a bargained-for exchange of value, benefit, or detriment between two parties. It's the quid pro quo (something for something) that each party receives in exchange for their promise or performance.\n\n**Key Principles:**\n\n1. **Mutuality:** Consideration must be mutual, meaning both parties must receive something of value or benefit from the exchange.\n2. **Bargained-for:** The consideration must be bargained-for, meaning it's the result of negotiations or an exchange of promises.\n3. **Sufficient:** The consideration must be sufficient, meaning it's not trivial or negligible.\n\n**Examples of Consideration:**\n\n1. **Money:** Payment of a certain amount of money.\n2. **Goods or Services:** Exchange of goods or services, such as a product or a service.\n3. **Promises:** A promise to perform a specific act or refrain from a certain action.\n4. **Deterrents:** A promise not to do something, such as a promise not to sue.\n\n**Illusory Promises:**\n\nA promise that is not supported by consideration is considered an illusory promise. For example, if a contract states that one party will perform only if the other party performs, it's an illusory promise because the first party is not obligated to perform.\n\n**Consideration in US Law:**\n\nThe concept of consideration is rooted in US law, particularly in the Uniform Commercial Code (UCC) and the Restatement (Second) of Contracts. The UCC, for example, requires consideration to be present in all contracts for the sale of goods (UCC § 2-305).\n\n**Important Courts and Cases:",
+      "response_time": 1.0397610664367676,
+      "word_count": 286,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How does force majeure affect contracts?",
+      "category": "Contract Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.34015774726867676,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What are liquidated damages?",
+      "category": "Contract Law",
+      "response": "**Disclaimer:** I'm an AI legal assistant, and this response is for general information purposes only. Liquidated damages are a common legal concept, but specific situations require consultation with a licensed attorney in the United States.\n\nLiquidated damages are a predetermined amount of money that a party may be entitled to in the event of a breach of contract. These damages are usually specified in the contract itself and are intended to compensate the non-breaching party for the anticipated loss resulting from the breach. Liquidated damages are often used in contracts where the actual damages may be difficult to determine or where the parties want to avoid the uncertainty and expense of litigation.\n\nIn the United States, liquidated damages are generally enforceable under the doctrine of separability, which allows a court to enforce the liquidated damages clause separately from the rest of the contract. However, the court will examine the clause to determine whether it is reasonable and not a penalty. The test for reasonableness is whether the liquidated damages are a fair estimate of the anticipated loss or whether they are unreasonably high.\n\nSome key principles governing liquidated damages in the United States include:\n\n* **Reasonableness:** The liquidated damages clause must be reasonable and not a penalty. (See _Hochster v. De La Tour_, 118 Eng. Rep. 922 (1853))\n* **Anticipated loss:** The liquidated damages must be a fair estimate of the anticipated loss resulting from the breach. (See _Bechtel v. WSB Corp._, 466 F. Supp. 2d 1212 (D. Colo. 2006))\n* **Separability:** A court may enforce a liquidated damages clause separately from the rest of the contract. (See _Restatement (Second) of Contracts_ § 356)\n\nExamples of contracts that often include liquidated damages clauses include:\n\n* **Construction contracts:** Liquidated damages clauses are common in construction contracts to compensate the owner for delays or other",
+      "response_time": 1.3099453449249268,
+      "word_count": 303,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What are the grounds for divorce in the US?",
+      "category": "Family Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.27684473991394043,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How is child custody determined?",
+      "category": "Family Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.30222153663635254,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What factors affect child support calculations?",
+      "category": "Family Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.2898380756378174,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is the difference between legal and physical custody?",
+      "category": "Family Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.2376251220703125,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How are marital assets divided in divorce?",
+      "category": "Family Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.2701685428619385,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is a prenuptial agreement?",
+      "category": "Family Law",
+      "response": "A prenuptial agreement, also known as a premarital agreement, is a written contract entered into by two individuals before marriage. The purpose of a prenuptial agreement is to establish the rights and obligations of each spouse in the event of a divorce, separation, or death.\n\nA prenuptial agreement typically addresses issues such as:\n\n1. Property division: How assets, debts, and property will be divided in the event of a divorce.\n2. Spousal support: Whether one spouse will pay the other spousal support, and if so, the amount and duration.\n3. Inheritance: How property and assets will be inherited in the event of one spouse's death.\n4. Business interests: How business interests will be handled in the event of a divorce or separation.\n5. Debt: How debts will be handled in the event of a divorce or separation.\n\nPrenuptial agreements can be beneficial for individuals who:\n\n1. Have significant assets or wealth before marriage.\n2. Have children from a previous relationship.\n3. Have a significant age or income disparity.\n4. Want to protect family businesses or inheritances.\n\nTo be considered valid, a prenuptial agreement must meet certain requirements:\n\n1. Both parties must enter into the agreement voluntarily.\n2. The agreement must be in writing and signed by both parties.\n3. Both parties must disclose their assets and financial information.\n4. The agreement must be fair and reasonable.\n5. The agreement must be executed before the marriage.\n\nIt is essential to note that prenuptial agreements are subject to state laws, and the validity of an agreement can vary depending on the jurisdiction. Some states may have specific requirements or restrictions on prenuptial agreements.\n\n**Disclaimer:** This information is for general educational purposes only and should not be considered specific legal advice. If you are considering entering into a prenuptial agreement, it is essential to consult with a licensed attorney in the United States who can provide",
+      "response_time": 2.125507116317749,
+      "word_count": 313,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How does adoption work legally?",
+      "category": "Family Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.22315216064453125,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What rights do grandparents have?",
+      "category": "Family Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.328782320022583,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is the difference between misdemeanors and felonies?",
+      "category": "Criminal Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.21433568000793457,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What are the elements of criminal liability?",
+      "category": "Criminal Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.27623915672302246,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How does bail work in the criminal justice system?",
+      "category": "Criminal Law",
+      "response": "**Disclaimer:** The following information is general in nature and does not constitute specific legal advice. For individual circumstances, it is essential to consult a licensed attorney.\n\nIn the United States, bail is a system used to release a defendant from custody while they await trial. The primary purpose of bail is to ensure the defendant's appearance in court as required. Here's an overview of how bail works in the criminal justice system:\n\n**Types of Bail:**\n\n1. **Cash Bail:** A defendant can post cash or a check to secure their release. If they fail to appear in court, the bail money is forfeited.\n2. **Surety Bail:** A third party, usually a bail bondsman, posts a bond on behalf of the defendant. The bondsman charges a fee, typically 10% of the bail amount.\n3. **Property Bail:** A defendant can use real estate or other assets as collateral for their release.\n4. **Personal Recognizance (PR) Bail:** In some cases, a defendant may be released on their own recognizance, without posting bail, if they are deemed a low-risk flight risk.\n\n**Bail Determination:**\n\nThe bail amount is determined by a judge or magistrate, taking into account various factors, including:\n\n1. **Severity of the crime:** More serious offenses may require higher bail amounts.\n2. **Defendant's flight risk:** If the defendant has a history of failing to appear in court, they may be considered a higher flight risk.\n3. **Defendant's ties to the community:** A defendant with strong ties to the community, such as family and employment, may be considered a lower flight risk.\n4. **Defendant's prior record:** A defendant with a prior record may be considered a higher flight risk.\n\n**Bail Reform:**\n\nIn recent years, there has been a movement towards bail reform, which aims to reduce the use of cash bail and ensure that defendants are not held in jail simply because they cannot",
+      "response_time": 0.930821418762207,
+      "word_count": 309,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What rights do suspects have during police questioning?",
+      "category": "Criminal Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.2147989273071289,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is the burden of proof in criminal cases?",
+      "category": "Criminal Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.23168039321899414,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How does plea bargaining work?",
+      "category": "Criminal Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.21960234642028809,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What are sentencing guidelines?",
+      "category": "Criminal Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.263169527053833,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is the difference between real and personal property?",
+      "category": "Property Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.21543192863464355,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How does adverse possession work?",
+      "category": "Property Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.20334315299987793,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What are easements and how do they affect property rights?",
+      "category": "Property Law",
+      "response": "**Disclaimer:** This response provides general information about easements in the United States and is not intended to be a substitute for specific legal advice. Consult a licensed attorney for guidance on your individual situation.\n\nAn easement is a property right that allows one landowner (the \"dominant estate\") to use another landowner's property (the \"servient estate\") for a specific purpose, such as crossing the property or accessing a shared resource. Easements can be granted voluntarily or imposed by law, and they can be found in various forms, including:\n\n1. **Easement in gross**: An easement that benefits a single individual or entity, rather than a group of people.\n2. **Easement appurtenant**: An easement that benefits a specific piece of property (the dominant estate) and is tied to that property's ownership.\n3. **Easement by necessity**: An easement that is implied by law when a property is landlocked or inaccessible without crossing another property.\n\nEasements can affect property rights in several ways:\n\n1. **Restrictions on use**: Easements can limit the use of a property, such as by requiring the dominant estate to maintain a shared road or allowing the servient estate to restrict access to the easement.\n2. **Shared maintenance**: Easements often require both parties to share maintenance responsibilities, such as repairing a shared road or clearing vegetation.\n3. **Limitations on subdivision or development**: Easements can restrict the ability to subdivide or develop a property, as they may require access to shared resources or infrastructure.\n4. **Potential for conflicts**: Easements can lead to disputes between landowners, particularly if the terms of the easement are unclear or if one party fails to meet their maintenance or access obligations.\n\n**Key laws and principles:**\n\n1. **Eminent Domain**: The government's power to take private property for public use, which can affect easements.\n2. **Property rights",
+      "response_time": 1.055736780166626,
+      "word_count": 297,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is required for a valid property deed?",
+      "category": "Property Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.20071935653686523,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How do zoning laws affect property use?",
+      "category": "Property Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.2182602882385254,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What are landlord-tenant rights and responsibilities?",
+      "category": "Property Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.232649564743042,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What are the different types of business entities?",
+      "category": "Business Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.26233673095703125,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is required to form a corporation?",
+      "category": "Business Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.3160557746887207,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is limited liability and how does it work?",
+      "category": "Business Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.24843144416809082,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What are fiduciary duties in business?",
+      "category": "Business Law",
+      "response": "**Fiduciary Duties in Business:**\n\nFiduciary duties refer to the legal obligations of individuals or entities who act on behalf of others, managing their assets, property, or business interests. In the context of business, fiduciary duties are essential for maintaining trust, transparency, and accountability among stakeholders, including shareholders, directors, officers, and employees.\n\n**Key Fiduciary Duties:**\n\n1. **Duty of Loyalty**: A fiduciary must act in the best interests of the principal (e.g., a company or shareholder) and avoid conflicts of interest. This means prioritizing the principal's interests over personal or self-serving interests.\n2. **Duty of Care**: A fiduciary must exercise reasonable care, skill, and diligence when managing the principal's assets or business. This includes making informed decisions, being knowledgeable about the business, and taking necessary precautions to prevent harm.\n3. **Duty of Good Faith**: A fiduciary must act with honesty and integrity, avoiding self-dealing, misrepresentation, or concealment of material information.\n4. **Duty of Disclosure**: A fiduciary must disclose all relevant information to the principal, including material facts, risks, and potential conflicts of interest.\n\n**Examples of Fiduciary Duties in Business:**\n\n1. **Corporate Directors**: Directors have fiduciary duties to the corporation, its shareholders, and creditors. They must act in the best interests of the corporation, make informed decisions, and avoid conflicts of interest.\n2. **Corporate Officers**: Officers, such as CEOs and CFOs, have fiduciary duties to the corporation and its stakeholders. They must act with good faith, honesty, and diligence, making decisions that benefit the corporation.\n3. **Trustees**: Trustees have fiduciary duties to the beneficiaries of a trust, managing the trust assets and property in accordance with the trust agreement and applicable laws.\n4. **Employee Fiduciaries\n\n---\n**Disclaimer**: This information is for educational purposes only and does not constitute legal advice. Please consult with a qualified attorney for advice specific to your situation.",
+      "response_time": 0.7746181488037109,
+      "word_count": 299,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How does intellectual property protection work?",
+      "category": "Business Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.35998082160949707,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What are the requirements for business licenses?",
+      "category": "Business Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.2342226505279541,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is negligence and how is it proven?",
+      "category": "Tort Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.267533540725708,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is the difference between intentional torts and negligence?",
+      "category": "Tort Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.216569185256958,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How are damages calculated in personal injury cases?",
+      "category": "Tort Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.33535218238830566,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is strict liability?",
+      "category": "Tort Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.23956751823425293,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is the statute of limitations for tort claims?",
+      "category": "Tort Law",
+      "response": "**Disclaimer:** The information provided is general in nature and is not intended to be specific legal advice. Statute of limitations laws can vary depending on the jurisdiction and the specific circumstances of each case. It is essential to consult a licensed attorney in the relevant jurisdiction for accurate and personalized guidance.\n\nIn the United States, the statute of limitations for tort claims can vary significantly depending on the type of tort, the jurisdiction, and the specific circumstances of each case. Generally, tort claims are subject to a statute of limitations that ranges from one to six years.\n\n**Federal Tort Claims Act (FTCA):** For federal tort claims, the statute of limitations is typically three years from the date of the incident or when the claimant discovers the injury, whichever is later (28 U.S.C. § 2401(a)).\n\n**State Laws:** State laws governing the statute of limitations for tort claims vary. For example:\n\n* California: 2 years (Cal. Civ. Proc. Code § 335.1)\n* New York: 3 years (N.Y. C.P.L.R. § 214)\n* Texas: 2 years (Tex. Civ. Prac. & Rem. Code § 16.003)\n\n**Key Factors:** The statute of limitations may be tolled (suspended) in certain circumstances, such as:\n\n* Minors or incapacitated individuals\n* Concealment or fraud\n* Latent injuries (e.g., asbestos-related diseases)\n* Governmental entities (FTCA)\n\n**Important Considerations:** When dealing with tort claims, it is crucial to consult with a licensed attorney to determine the applicable statute of limitations, as well as any relevant exceptions or tolling provisions. Failure to file a claim within the statutory time frame can result in the loss of the right to pursue a lawsuit.\n\n**Consult a Licensed Attorney:** This information is intended to provide general guidance only. For specific advice on a tort claim, please consult a licensed attorney in the relevant jurisdiction.",
+      "response_time": 1.029198169708252,
+      "word_count": 297,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is comparative negligence?",
+      "category": "Tort Law",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.2447218894958496,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is required for a valid will?",
+      "category": "Estate Planning",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.2716052532196045,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How does probate work?",
+      "category": "Estate Planning",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.2315211296081543,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is a power of attorney?",
+      "category": "Estate Planning",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.2166426181793213,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What are the benefits of a trust?",
+      "category": "Estate Planning",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.22634172439575195,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "How does estate tax work?",
+      "category": "Estate Planning",
+      "response": "**Disclaimer:** This is a general overview of estate tax in the United States. Estate tax laws can be complex and subject to change. It's essential to consult a licensed attorney for specific guidance on your situation.\n\nIn the United States, estate tax is a tax levied on the transfer of an individual's estate after their death. The estate tax is also known as the \"death tax\" or \"inheritance tax.\" Here's a general overview of how it works:\n\n**Who is subject to estate tax?**\n\nNot everyone is subject to estate tax. In 2022, the federal estate tax exemption amount was $12.06 million for individuals and $24.12 million for married couples. If the total value of the estate is below these thresholds, no estate tax is owed. However, if the estate's value exceeds these amounts, the excess is subject to estate tax.\n\n**How is the estate tax calculated?**\n\nThe estate tax is calculated by determining the value of the estate, subtracting any exemptions and deductions, and then applying the applicable tax rate. The tax rate ranges from 18% to 40%, depending on the estate's value.\n\n**Key components of estate tax:**\n\n1. **Gross Estate:** The total value of the estate, including real estate, personal property, investments, and other assets.\n2. **Exemptions:** The amount of the estate that is exempt from tax, such as the exemption amounts mentioned above.\n3. **Deductions:** Expenses and debts that can be subtracted from the gross estate, such as funeral expenses, taxes, and debts owed by the estate.\n4. **Taxable Estate:** The amount of the estate that is subject to tax, calculated by subtracting exemptions and deductions from the gross estate.\n\n**Other considerations:**\n\n1. **State estate taxes:** Some states, such as California, New York, and Massachusetts, have their own estate taxes, which may be in addition to the federal estate tax.\n",
+      "response_time": 0.9311282634735107,
+      "word_count": 302,
+      "has_disclaimer": true,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What happens to assets without a will?",
+      "category": "Estate Planning",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.21314120292663574,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    },
+    {
+      "question": "What is an executor's role?",
+      "category": "Estate Planning",
+      "response": "I apologize, but I'm currently unable to process your request. Please try again later or consult with a qualified attorney for immediate assistance.",
+      "response_time": 0.23357367515563965,
+      "word_count": 23,
+      "has_disclaimer": false,
+      "is_appropriate": true,
+      "success": true,
+      "error": null
+    }
+  ]
+}
